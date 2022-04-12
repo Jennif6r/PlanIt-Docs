@@ -76,5 +76,5 @@ The user has choose no category for the event. Maybe we choose per default priva
 If an event doesn’t get cancelled, but set to another time or someting other changed, like the category. One option is to delete the old event and create a new one. To simplify this process, it is possible to change an existing object.
 
 <!-- Picture-Link definitions: -->
-[OUCA]: https://github.com/PatrickFreyy/PlanIt/blob/main/docs/Usecases/wireframe-createEvent.png
-[OUCD]: https://github.com/PatrickFreyy/PlanIt/blob/main/docs/Usecases/uc4-ActivityDiagram.png
+[OUCA]: https://github.com/Jennif6r/PlanIt-Docs/blob/main/docs/Usecases/wireframe-createEvent.png
+[OUCD]: https://github.com/Jennif6r/PlanIt-Docs/blob/main/docs/Usecases/uc4-ActivityDiagram.png

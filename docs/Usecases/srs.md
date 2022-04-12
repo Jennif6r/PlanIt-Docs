@@ -148,4 +148,4 @@ For more information you can contact us through our [blog](https://planit2021se.
 
 
 <!-- Picture-Link definitions: -->
-[OUCD]: https://github.com/PatrickFreyy/PlanIt/blob/main/docs/UseCaseDiagram.jpg "Overall Use Case Diagram"
+[OUCD]: https://github.com/Jennif6r/PlanIt-Docs/blob/main/docs/Usecases/UseCaseDiagram.jpg "Overall Use Case Diagram"

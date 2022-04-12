@@ -93,7 +93,7 @@ N/A
 
 <!-- Picture-Link definitions: -->
 
-[QUDC]: https://github.com/PatrickFreyy/PlanIt/blob/main/docs/mvc.png
-[OUCD]: https://github.com/PatrickFreyy/PlanIt/blob/main/docs/UseCaseDiagram.jpg
-[OUBD]: https://github.com/PatrickFreyy/PlanIt/blob/main/docs/class-diagram.jpg
-[OUCA]: https://github.com/PatrickFreyy/PlanIt/blob/main/docs/MVC.jpg
+[QUDC]: https://github.com/Jennif6r/PlanIt-Docs/blob/main/docs/Architecture/mvcStructure.png
+[OUBD]: https://github.com/Jennif6r/PlanIt-Docs/blob/main/docs/Architecture/class-diagram.jpg
+[OUCD]: https://github.com/Jennif6r/PlanIt-Docs/blob/main/docs/Usecases/UseCaseDiagram.jpg
+[OUCA]: https://github.com/Jennif6r/PlanIt-Docs/blob/main/docs/Architecture/MVC.jpg
