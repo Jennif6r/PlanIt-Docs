@@ -147,4 +147,4 @@ The logo is licensed to the PlanIt Team and is only allowed to use for the appli
 For more information you can contact us through our [blog](https://planit2021se.wordpress.com/). 
 
 <!-- Picture-Link definitions: -->
-[OUCD]: https://github.com/Jennif6r/PlanIt-Docs/blob/main/docs/Usecases/UseCaseDiagram.jpg "Overall Use Case Diagram "
+[OUCD]: https://github.com/Jennif6r/PlanIt-Docs/blob/main/docs/Usecases/DiagramUseCases.jpg "Overall Use Case Diagram "
